@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.d3676f52.css",
-    "main.js": "/static/js/main.9a8d8848.js",
+    "main.js": "/static/js/main.b6e26451.js",
     "static/media/surf_trip.mp4": "/static/media/surf_trip.33419a84d12721da6a74.mp4",
     "static/media/isme.png": "/static/media/isme.79464540e34d86071da9.png",
     "index.html": "/index.html",
     "main.d3676f52.css.map": "/static/css/main.d3676f52.css.map",
-    "main.9a8d8848.js.map": "/static/js/main.9a8d8848.js.map"
+    "main.b6e26451.js.map": "/static/js/main.b6e26451.js.map"
   },
   "entrypoints": [
     "static/css/main.d3676f52.css",
-    "static/js/main.9a8d8848.js"
+    "static/js/main.b6e26451.js"
   ]
 }
